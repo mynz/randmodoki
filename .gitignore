@@ -1,0 +1,12 @@
+
+*.ko
+*.o
+tags
+x86
+
+
+@
+bus_if.h
+device_if.h
+export_syms
+machine
